@@ -1,0 +1,45 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "quisiera saber si venden",
+            "necesito saber",
+            "asenso patrulleros",
+            "patrulleros",
+            "hola buenos dias",
+            "necesito saber como cargar mi rut",
+            "rut"
+
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "actualizacion de rut",  
+            "1" ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "certificacion laboral",
+            "2"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "pqr o felicitaciones",
+            "3"
+        ],
+        "key": "STEP_2_2"
+    }
+]
